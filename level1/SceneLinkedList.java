@@ -1,3 +1,4 @@
+package level1;
 public class SceneLinkedList {
     private Node head;
     private int size;

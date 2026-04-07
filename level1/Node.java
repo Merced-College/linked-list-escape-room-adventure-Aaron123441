@@ -1,3 +1,5 @@
+package level1;
+
 public class Node {
     private Scene data;
     private Node next;

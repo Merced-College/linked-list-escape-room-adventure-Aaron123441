@@ -1,3 +1,4 @@
+package level1;
 public class Choice {
     private String text;
     private int nextSceneId;
