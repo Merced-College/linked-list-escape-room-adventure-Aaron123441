@@ -28,8 +28,6 @@ public class MainGame1 extends JFrame {
 	private static AdventureGame game;
 
 
-
-
 	/**
 	 * Launch the application.
 	 */
